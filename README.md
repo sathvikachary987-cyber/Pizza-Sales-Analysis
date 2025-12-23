@@ -39,4 +39,3 @@ SQL was used for data cleaning and analysis, and Tableau was used for visualizat
 This project demonstrates practical usage of SQL for data analysis and Tableau for visualization, providing meaningful business insights from sales data.
 
 ---
-
